@@ -1,0 +1,11 @@
+2025-07-24T20:59:23.757+05:30  INFO 16387 --- [elk-demo] [main] c.vedasole.elkdemo.ElkDemoApplication    : Starting ElkDemoApplication using Java 21.0.6 with PID 16387 (/mnt/hdd1/coding/springWorks/elk-demo/target/classes started by ved in /mnt/hdd1/coding/springWorks/elk-demo)
+2025-07-24T20:59:23.801+05:30  INFO 16387 --- [elk-demo] [main] c.vedasole.elkdemo.ElkDemoApplication    : No active profile set, falling back to 1 default profile: "default"
+2025-07-24T20:59:24.987+05:30  INFO 16387 --- [elk-demo] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-24T20:59:25.013+05:30  INFO 16387 --- [elk-demo] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-24T20:59:25.014+05:30  INFO 16387 --- [elk-demo] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-24T20:59:25.088+05:30  INFO 16387 --- [elk-demo] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-24T20:59:25.089+05:30  INFO 16387 --- [elk-demo] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1229 ms
+2025-07-24T20:59:25.730+05:30  INFO 16387 --- [elk-demo] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-24T20:59:25.739+05:30  INFO 16387 --- [elk-demo] [main] c.vedasole.elkdemo.ElkDemoApplication    : Started ElkDemoApplication in 2.635 seconds (process running for 2.997)
+2025-07-24T21:26:37.838+05:30  INFO 16387 --- [elk-demo] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-24T21:26:37.852+05:30  INFO 16387 --- [elk-demo] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
