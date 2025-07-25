@@ -37,9 +37,8 @@ A demo project to test out the integration of Spring Boot with the ELK stack (El
 To install and run ElasticSearch follow th given steps:
 
 1. [Download](https://www.elastic.co/downloads/elasticsearch) and unzip Elasticsearch. <br>
-Go to elasticsearch-<version>-<os>-<system-type>\elasticsearch-<version>\bin
-
-
+Go to the `bin` directory inside the folder where you unzipped Elasticsearch.
+<br><br>
 2. Open Terminal and navigate to the above-mentioned directory then execute the following command.
     ```bash
    bash ./elasticsearch
