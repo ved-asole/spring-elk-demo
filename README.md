@@ -17,7 +17,13 @@ A demo project to test out the integration of Spring Boot with the ELK stack (El
 
 # Screenshots: 📷
 
-### 1) Kibana Logs:
+### 1) Elasticsearch Status:
+![Elastic_Search_Status.png](elastic.png)
+
+### 2) Logstash to Kibana Integration:
+![Logstash_to_Spring_Boot_Integration.png](kibana-index.png)
+
+### 3) Kibana Logs:
 ![Final_Output.png](kibana-logs.png)
 
 # Technologies: ☕️  ⚛️
