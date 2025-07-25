@@ -25,10 +25,9 @@ A demo project to test out the integration of Spring Boot with the ELK stack (El
 - Java
 - Spring Boot
 - Spring Web
-- Spring Data Rest
-- Spring Data JPA
-- H2 and Postgres DB
-- Swagger
+- Elasticsearch
+- Logstash
+- Kibana
 
 # Setup: 💻
 
